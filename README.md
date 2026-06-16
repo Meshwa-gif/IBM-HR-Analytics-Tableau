@@ -11,7 +11,7 @@ Interactive Tableau dashboard analyzing **1,470 IBM employees** across 6 visual 
 
 ## Dashboard Preview
 
-![IBM HR Analytics Dashboard](screenshots/dashboard1.webp)
+![IBM HR Analytics Dashboard](screenshots/Dashboard 1.webp)
 
 ---
 
